@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_gravity="center"
+       android:background="@color/Red"
+       >
+
+       <ImageView
+           android:layout_width="125dp"
+           android:layout_height="74dp"
+           android:layout_gravity="center"
+
+           android:src="@drawable/UCU_logo" />
+
+       <EditText
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="@color/Red"
+           android:text="URDANETA CITY UNIVERSITY"
+           android:textColor="@color/White"
+           android:textSize="39dp" />
+
+       <EditText
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="San Vicente West, Urdaneta City,Pangasinan"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+
+       <EditText
+           android:layout_width="452dp"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="Email:info@ucu.edu.ph/ucu.reg@gmail.com"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+
+       <EditText
+           android:layout_width="449dp"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="Phone No:(075) 204-9020"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+   </LinearLayout>
+    <EditText
+        android:layout_gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:textColor="@color/Red"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Student No.:20182656"
+        />
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:textColor="@color/White"
+        android:paddingRight="212dp"
+        android:paddingLeft="229dp"
+        android:text="BSIT"
+        android:textSize="40dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="30dp"
+        android:paddingTop="30dp"
+        android:src="@drawable/UCU_logo" />
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:textColor="@color/White"
+        android:paddingBottom="10dp"
+        android:paddingTop="15dp"
+        android:paddingRight="15dp"
+        android:paddingLeft="30dp"
+        android:text="ARIEL DOMINICK B> JAVIER"
+        android:textSize="40dp"
+        />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="491dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/White"
+                android:text=" "
+                android:textColor="@color/White"
+                android:textSize="29dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:background="@color/Red"
+                android:text=" "
+                android:textColor="@color/White"
+                android:textSize="29dp" />
+        </LinearLayout>
+    </LinearLayoutCompat>\
+schemas.android.com
+schemas.android.com
+You sent 20 November at 09:40
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_gravity="center"
+       android:background="@color/Red"
+       >
+
+       <ImageView
+           android:layout_width="125dp"
+           android:layout_height="74dp"
+           android:layout_gravity="center"
+
+           android:src="@drawable/UCU_logo" />
+
+       <EditText
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="@color/Red"
+           android:text="URDANETA CITY UNIVERSITY"
+           android:textColor="@color/White"
+           android:textSize="39dp" />
+
+       <EditText
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="San Vicente West, Urdaneta City,Pangasinan"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+
+       <EditText
+           android:layout_width="452dp"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="Email:info@ucu.edu.ph/ucu.reg@gmail.com"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+
+       <EditText
+           android:layout_width="449dp"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:background="#FF0000"
+           android:text="Phone No:(075) 204-9020"
+           android:textColor="@color/White"
+           android:textSize="23dp" />
+   </LinearLayout>
+    <EditText
+        android:layout_gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:textColor="@color/Red"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Student No.:20182656"
+        />
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:textColor="@color/White"
+        android:paddingRight="212dp"
+        android:paddingLeft="229dp"
+        android:text="BSIT"
+        android:textSize="40dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="30dp"
+        android:paddingTop="30dp"
+        android:src="@drawable/UCU_logo" />
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:textColor="@color/White"
+        android:paddingBottom="10dp"
+        android:paddingTop="15dp"
+        android:paddingRight="15dp"
+        android:paddingLeft="30dp"
+        android:text="ARIEL DOMINICK B. JAVIER"
+        android:textSize="40dp"
+        />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="491dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@color/White"
+                android:text=" "
+                android:textColor="@color/White"
+                android:textSize="29dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:layout_gravity="center"
+                android:background="@color/Red"
+                android:text=" "
+                android:textColor="@color/White"
+                android:textSize="29dp" />
+        </LinearLayout>
+    </LinearLayoutCompat>\
